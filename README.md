@@ -1,2 +1,2 @@
-soex-ctools
+drupal-ctools
 ===========
